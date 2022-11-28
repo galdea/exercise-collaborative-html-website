@@ -2,9 +2,17 @@ body{
     background: white;
 }
 
+.bodyMargin {
+margin-left: 80px;
+margin-right: 80px;
+}
+
 .fondo{
     background-image: url("../img/bg.jpg");
     background-size: cover;
     background-position: center center;
     height: 600px;
+}
+
+hr {
 }
